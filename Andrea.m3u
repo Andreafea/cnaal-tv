@@ -1,0 +1,909 @@
+{
+  "nombre": "CANALES MOVISTAR Y Canales España (TDT + Autonómicas)",
+  "autor": "ListasWiseplay.com",
+"info": "Cualquier duda o sugerencia contactar con listaswiseplay.com",
+  "url": "https://pastebin.com/ZjA4B5SY",
+"imagen": "http://otxarkoaga.es/wp-content/uploads/logo_tdt.gif",
+  "grupos": [
+{
+ 
+         "name": "TODOS LOS CANALES DE PAGO TOTALMENTE GRATIS",
+      "image": "https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",
+      "info": "IMPORTANTE: Sincroniza siempre la lista antes de ver un evento, así te garantizas tener las últimas y mejores señales disponibles. Para los canales que se abren externamente, pulsar en el icono de Play (parte superior derecha) con un círculo en cuanto apareció para abrir en el reproductor.",
+      "estaciones": [
+ 
+{"name": " TODOS LOS CANALES DE PAGO (INCLUIDO MOTOGP + FORMULA 1.. ETC ",
+"imagen":"http://www.asphaltandrubber.com/wp-content/uploads/2013/02/motogp-logo.png",
+"url": "https://pastebin.com/raw/HpBX8Z7h#.m3u",
+"usuarioAgente": "exoplayer_video"},
+ 
+           {
+                    "name": "Todas las listas wiseplay actualizadas",
+                    "image": "https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",
+                    "url": "https://listaswiseplay.com/",
+                    "incrustar": "verdadero",
+					"playInNatPlayer": "verdadero",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/69.0.3497.100 Safari/537.36"
+                }, 
+{
+                    "name": "Grupo de telegrama (ÚNETE)",
+                    "imagen": "https://s03.s3c.es/imag/_v0/640x319/4/5/e/telegram.jpg",
+                    "url": "https://t.me/listaswiseplay",
+                    "incrustar": "verdadero",
+					"playInNatPlayer": "verdadero",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/69.0.3497.100 Safari/537.36"
+                }, 
+ 
+ 
+		{"nombre": " CANALES TDT + INFANTIL",
+		"imagen":"https://prnoticias.com/media/k2/items/cache/d3b9df0cfd937caf4f58ddf8f5124dd5_XL.jpg?t=1527067130",
+		"url": "https://pastebin.com/b3gKXP5A",
+		"usuarioAgente": "exoplayer_video",
+		"isHost": verdadero},
+ 
+			{"name": " TODOS LOS CANALES DE PAGO (INCLUIDO MOTOGP + FORMULA 1.. ETC ",
+"imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+"url": "https://pastebin.com/raw/0C5utBqQ#.m3u",
+"usuarioAgente": "exoplayer_video",
+"isHost": verdadero},
+ {
+                           "nombre": "prueba",
+                           "image":"https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",
+                           "url": "https://vergol.com/aplicacion/app1/formula1y2.php",
+"agente de usuario": "",
+ "incrustar": "verdadero" 
+ }, 
+  {
+                    "nombre": "MOVISTAR 1 (ON)",
+                    "imagen": "https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                    "url": "https://pastebin.com/raw/HpBX8Z7h#.m3u",
+                    "usuarioAgente": "exoplayer_video",
+                    "isHost": verdadero
+                },  
+  {
+                           "nombre": "MOVISTAR 2",
+                           "imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                           "url": "https://github.com/clone83/listaswiseplay.com/blob/master/movistar.listaswiseplay.com.m3u", 
+                            "usuarioAgente": "exoplayer_video", 
+                            "isHost": "verdadero"
+},
+ {
+                           "nombre": "MOVISTAR 3",
+                           "imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                           "url": "https://dl.dropbox.com/s/65ywdvzey1b2nkb/1.m3u", 
+                            "usuarioAgente": "exoplayer_video", 
+                            "isHost": "verdadero"
+}, 
+ 
+ 
+  {
+                           "nombre": "MOVISTAR 5",
+                           "imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                           "url": "https://dl.dropbox.com/s/3dxq5j99l4pch7p/2.m3u",
+"isHost": "verdadero"
+},
+ {
+                           "nombre": "MOVISTAR 6",
+                           "imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                           "url": "https://dl.dropbox.com/s/pt68czo1e9wknye/4.m3u",
+"usuarioAgente": "exoplayer_video",
+"isHost": "verdadero"
+ },   
+{
+                    "name": "Todas las Listas Wiseplay gratis",
+                    "image": "https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",
+                    "url": "http://listaswiseplay.com/",
+					"incrustar": "verdadero",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/69.0.3497.100 Safari/537.36"
+                },
+ 
+ 
+ 
+         ]
+},
+ 
+ 
+{
+            "nombre": "Movistar+",
+            "image": "https://todonexus.com/wp-content/uploads/Como-ordenar-los-canales-en-Movistar-tv.jpg",
+"estaciones": [
+{
+                    "nombre": "MOVISTAR 1 (ON)",
+                    "imagen": "https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                    "url": "https://pastebin.com/raw/HpBX8Z7h#.m3u",
+                    "usuarioAgente": "exoplayer_video",
+                    "isHost": verdadero
+                },   
+{
+                           "nombre": "MOVISTAR 2",
+                           "imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                           "url": "https://github.com/clone83/listaswiseplay.com/blob/master/movistar.listaswiseplay.com.m3u",
+                            "usuarioAgente": "exoplayer_video",
+                            "isHost": "verdadero"
+},
+ {
+                           "nombre": "MOVISTAR 3",
+                           "imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                           "url": "https://dl.dropbox.com/s/65ywdvzey1b2nkb/1.m3u",
+                            "usuarioAgente": "exoplayer_video",
+                            "isHost": "verdadero"
+},
+ 
+   {
+                           "nombre": "MOVISTAR 4",
+                           "imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                           "url": "https://dl.dropbox.com/s/pt68czo1e9wknye/4.m3u",
+"usuarioAgente": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",                        
+"isHost": "verdadero"
+},
+  {
+                           "nombre": "MOVISTAR 5",
+                           "imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                           "url": "https://dl.dropbox.com/s/3dxq5j99l4pch7p/2.m3u",
+"isHost": "verdadero"
+},
+ {
+                           "nombre": "MOVISTAR 6",
+                           "imagen":"https://cdn2.downdetector.com/static/uploads/logo/Movistar_2016_Vertical_Blue_3.png",
+                           "url": "https://dl.dropbox.com/s/pt68czo1e9wknye/4.m3u",
+"usuarioAgente": "exoplayer_video",
+"isHost": "verdadero"
+ },  
+ 
+ 
+  {
+                           "nombre": "TAQUILLA 6",
+                           "image":"https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",
+                           "url": "http://37.187.128.169:8000/live/215shuuyap098e3jd/no1345cnbfhy4y5681198891/62.ts",
+"userAgent": "exoplayer_video" 
+ }
+] 
+}, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{
+            "nombre": "GH vip",
+            "Imagen": "https://scontent.fmad8-1.fna.fbcdn.net/v/t1.0-9/69129087_10156284008022382_3588143669103820800_n.jpg?_nc_cat=1&_nc_oc=AQkFgn9wzUekAIdcjDfh-7SipdD1qFz02tWSc7p4p21nQ5AndVoxXeiXqWuZUozcM6U&_nc_ht=scontent.fmad8-1.fna&oh=f8eb1c14dd3dd314442c7a2b340ce089&oe =5DF7DC78",
+"estaciones": [              
+ 
+{
+                           "nombre": "GH VIP",
+                           "Imagen": "https://scontent.fmad8-1.fna.fbcdn.net/v/t1.0-9/69129087_10156284008022382_3588143669103820800_n.jpg?_nc_cat=1&_nc_oc=AQkFgn9wzUekAIdcjDfh-7SipdD1qFz02tWSc7p4p21nQ5AndVoxXeiXqWuZUozcM6U&_nc_ht=scontent.fmad8-1.fna&oh=f8eb1c14dd3dd314442c7a2b340ce089&oe =5DF7DC78",
+                           "url": "https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8"
+ }
+]
+},
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    {
+	"nombre": "Televisión",
+	"imagen": "http://25.media.tumblr.com/38ba7aa23ce934325484372ae9e793f9/tumblr_mt9eusr6Tn1ryw6edo1_500.gif",
+	"grupos": [
+ 
+		{
+			"nombre": "TV1",
+			"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/702px-Logo_TVE-1.svg.png",
+			"estaciones": [
+ 
+				{
+					"nombre": "La 1",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/702px-Logo_TVE-1.svg.png",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/la1.php",
+                    "referente": "https://vergol.com/bgjhykdmbtj668/live/la1.php",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                   "incrustar": verdadero
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/702px-Logo_TVE-1.svg.png",
+					"url": "http://tvespana.blogspot.com/2013/05/la-1-tve-en-directo.html",
+					"referente": "http://tvespana.blogspot.com/2016/01/60-aniversario-tve.html",
+					"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/67.0.3396.99 Safari/537.36",
+					"isHost": verdadero
+				},
+				{
+					"name": "Opción 3",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/702px-Logo_TVE-1.svg.png",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/3364"
+				}
+ 
+			]
+		},
+ 
+		{
+			"nombre": "TV2",
+			"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png",
+			"estaciones": [
+ 
+				{
+					"nombre": "La 2",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png",
+					"url": "http://jugadores.telearroba.es/la2.html",
+                    "referente": "http://www.telearroba.es/2012/05/la-2.html",
+                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/68.0.3440.106 Safari/537.36",
+                     "incrustar": verdadero
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png",
+					"url": "http://91.126.138.131:1935/live/81/playlist.m3u8"
+				},
+				{
+					"name": "Opción 3",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/622"
+				}
+ 
+			]
+		},
+ 
+		{
+			"nombre": "Antena 3",
+			"imagen": "http://tutele.s3.amazonaws.com/wp-content/uploads/2013/07/logo-antena-3-naranja.jpg",
+			"estaciones": [
+ 
+				{
+					"nombre": "Antena 3",
+					"imagen": "http://tutele.s3.amazonaws.com/wp-content/uploads/2013/07/logo-antena-3-naranja.jpg",
+					"url": "https://vergol.com/bgjhykdmbtj668/live1/antena3.php",
+                    "referente": "https://vergol.com/bgjhykdmbtj668/live1/antena3.php",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://tutele.s3.amazonaws.com/wp-content/uploads/2013/07/logo-antena-3-naranja.jpg",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/3383"
+				}
+ 
+			]
+		},
+ 
+{
+			"nombre": "Cuatro",
+			"imagen": "https://cdn.one.accedo.tv/files/57f3c7409a28fb021e652c81",
+			"estaciones": [
+ 
+							     {
+                           "nombre": "Cuatro",
+                           "imagen":"https://cdn.one.accedo.tv/files/57f3c7409a28fb021e652c81",
+                           "url": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8"
+       		}
+ 
+			]
+		},
+ 
+		{
+			"nombre": "Telecinco",
+			"imagen": "http://cadenaser00.epimg.net/ser/imagenes/2017/01/02/television/1483374575_118979_1483374885_noticia_normal.jpg",
+			"estaciones": [
+ 
+				{
+					"nombre": "Telecinco",
+					"imagen": "http://cadenaser00.epimg.net/ser/imagenes/2017/01/02/television/1483374575_118979_1483374885_noticia_normal.jpg",
+					"url": "https://vergol.com/bgjhykdmbtj668/live1/telecinco2.php",
+                    "referente":"http://vercanalestv.com/tv/nacionales/telecinco.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://cadenaser00.epimg.net/ser/imagenes/2017/01/02/television/1483374575_118979_1483374885_noticia_normal.jpg",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/3384"
+ 
+				}
+ 
+			]
+		},
+		{
+			"nombre": "La Sexta",
+			"imagen": "http://www.brandemia.org/sites/default/files/sites/default/files/la_sexta_logo-antes.jpg",
+			"estaciones": [
+ 
+				{
+					"nombre": "La Sexta",
+					"imagen": "http://www.brandemia.org/sites/default/files/sites/default/files/la_sexta_logo-antes.jpg",
+					"url": "https://vergol.com/bgjhykdmbtj668/live1/lasexta.php",
+                    "referente":"http://vercanalestv1.com/tv/nacionales/la-sexta.html",
+                     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                     "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://www.brandemia.org/sites/default/files/sites/default/files/la_sexta_logo-antes.jpg",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/3392"
+ 
+				}
+ 
+			]
+		},
+		{
+			"name": "Canal 24Horas",
+			"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",
+			"estaciones": [
+ 
+				{
+					"name": "Canal 24Horas",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",
+					"url": "https://vercanalestv1.com/tv/nacionales/tve-24h-noticas.html",
+                    "referer": "https://vercanalestv1.com/ver-tve-24h-noticias-online-en-directo-gratis/",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "isHost": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",
+					"url": "http://tvespana.blogspot.com/2016/11/24-horas-en-directo-tve.html",
+                    "referente": "http://tvespana.blogspot.com/2013/05/canal-24-horas-tve-en-directo.html",
+                   "isHost": verdadero
+ 
+				},
+				{
+					"name": "Opción 3",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/2630"
+ 
+				}
+ 
+			]
+		},
+		{
+			"nombre": "FDF",
+			"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg .png",
+			"estaciones": [
+ 
+				{
+					"nombre": "FDF",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg .png",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/fdf.php",
+                    "referente": "http://vercanalestv1.com/tv/nacionales/fdf.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg .png",
+					"url": "http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8"
+				}
+ 
+			]
+		},
+		{
+			"nombre": "Neox",
+			"imagen": "https://vignette4.wikia.nocookie.net/logopedia/images/4/45/Neox_2011.gif/revision/latest?cb=20140314221216",
+			"estaciones": [
+ 
+				{
+					"nombre": "Neox",
+					"imagen": "https://vignette4.wikia.nocookie.net/logopedia/images/4/45/Neox_2011.gif/revision/latest?cb=20140314221216",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/neox.php",
+                    "referente": "http://vercanalestv1.com/tv/nacionales/neox.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                     "incrustar": verdadero
+ 
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "https://vignette4.wikia.nocookie.net/logopedia/images/4/45/Neox_2011.gif/revision/latest?cb=20140314221216",
+					"url": "http://91.126.138.140:1935/live/neox/playlist.m3u8"
+ 
+				}
+ 
+			]
+		},
+		{
+			"nombre": "Central de la comedia",
+			"imagen": "http://2.bp.blogspot.com/-ioWmse38688/T5KVVhPLpjI/AAAAAAAAAFI/DPKraNI9U7M/s1600/366px-Paramount_Comedy_2009.svg.png",
+			"estaciones": [
+ 
+				{
+					"nombre": "Central de la comedia",
+					"imagen": "http://2.bp.blogspot.com/-ioWmse38688/T5KVVhPLpjI/AAAAAAAAAFI/DPKraNI9U7M/s1600/366px-Paramount_Comedy_2009.svg.png",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/3386"
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://2.bp.blogspot.com/-ioWmse38688/T5KVVhPLpjI/AAAAAAAAAFI/DPKraNI9U7M/s1600/366px-Paramount_Comedy_2009.svg.png",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/3386"
+ 
+				}
+ 
+			]
+		},
+		{
+			"name": "Atreseries",
+			"imagen": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9//720x540.jpg",
+			"estaciones": [
+ 
+				{
+					"name": "Atreseries",
+					"imagen": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9//720x540.jpg",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/atreseries.php",
+                    "referente": "http://vercanalestv1.com/tv/nacionales/atreseries.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9//720x540.jpg",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/12630"
+ 
+				},
+				{
+					"name": "Opción 3",
+					"imagen": "https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9//720x540.jpg",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/19208"
+ 
+				}
+ 
+			]
+		},
+		{
+			"nombre": "Zorro",
+			"imagen": "http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo.png",
+			"estaciones": [
+ 
+				{
+					"nombre": "Zorro",
+					"imagen": "http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo.png",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/fox1.php",
+                    "referente": "http://vercanalestv1.com/tv/nacionales/fox.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo.png",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/631"
+				}
+ 
+			]
+		},
+		{
+			"nombre": "AXN",
+			"imagen": "http://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg",
+			"estaciones": [
+ 
+				{
+					"nombre": "AXN",
+					"imagen": "http://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/axn.php",
+                    "referente": "http://vercanalestv1.com/tv/nacionales/axn.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/3385"
+				}
+ 
+			]
+		},
+		{
+			"nombre": "Calle 13",
+			"imagen": "http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg",
+			"estaciones": [
+ 
+				{
+					"nombre": "Calle 13",
+					"imagen": "http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/calle13.php",
+                    "referer":"http://vercanalestv1.com/tv/nacionales/calle-13.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg",
+					"url": "https://verliga1.net/tv/nacionales/calle13.php",
+                    "referer": "https://verliga1.net/ver-calle-13-online-gratis-en-directo-por-internet/",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/68.0.3440.84 Safari/537.36",
+                    "incrustar": verdadero
+				},
+				{
+					"name": "Opción 3",
+					"imagen": "http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/23056"
+				}
+ 
+			]
+		},
+		{
+			"nombre": "TNT",
+			"imagen": "https://vignette4.wikia.nocookie.net/logopedia/images/5/56/Tnthd.png/revision/latest?cb=20160506214715",
+			"estaciones": [
+ 
+				{
+					"nombre": "TNT",
+					"imagen": "https://vignette4.wikia.nocookie.net/logopedia/images/5/56/Tnthd.png/revision/latest?cb=20160506214715",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/tnt.php",
+                    "referente": "http://vercanalestv1.com/tv/nacionales/tnt.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                     "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "https://vignette4.wikia.nocookie.net/logopedia/images/5/56/Tnthd.png/revision/latest?cb=20160506214715",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/2634"
+				}
+ 
+			]
+		},
+		{
+			"nombre": "GOL TV",
+			"imagen": "http://estaticos.elperiodico.com/resources/jpg/5/5/1464801898055.jpg",
+			"estaciones": [
+ 
+				{
+					"nombre": "GOL TV",
+					"imagen": "http://estaticos.elperiodico.com/resources/jpg/5/5/1464801898055.jpg",
+					"url": "https://vergol.com/bgjhykdmbtj668/live1/goltv.php",
+                    "referente": "https://vercanalestv1.com/tv/deportes/goltv.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://estaticos.elperiodico.com/resources/jpg/5/5/1464801898055.jpg",
+					"url": "http://91.126.138.141:1935/live/gol/playlist.m3u8"
+ 
+				}
+ 
+			]
+		},
+ 
+		{
+			"nombre": "Canal Hollywood",
+			"imagen": "http://www.tvhoradada.com/images/logos/canales/hollywood.png",
+			"estaciones": [
+ 
+				{
+					"nombre": "Canal Hollywood",
+					"imagen": "http://www.tvhoradada.com/images/logos/canales/hollywood.png",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/hollywood.php",
+                    "referente": "http://vercanalestv1.com/tv/nacionales/canal-hollywood.html",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://www.tvhoradada.com/images/logos/canales/hollywood.png",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/629"
+				}
+ 
+			]
+		},
+		{
+			"nombre": "AMC",
+			"imagen": "https://www.cooperativa.cl/noticias/site/artic/20141022/imag/foto_0000000120141022154025.png",
+			"estaciones": [
+ 
+				{
+					"nombre": "AMC",
+					"imagen": "https://www.cooperativa.cl/noticias/site/artic/20141022/imag/foto_0000000120141022154025.png",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/amc.php",
+                    "referente": "http://vercanalestv1.com/tv/nacionales/amc.html",
+                    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "https://www.cooperativa.cl/noticias/site/artic/20141022/imag/foto_0000000120141022154025.png",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/3371"
+				}
+ 
+			]
+		},
+		{
+			"nombre": "MTC",
+			"imagen": "http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg",
+			"estaciones": [
+ 
+				{
+					"nombre": "MTC",
+					"imagen": "http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg",
+					"url": "https://vergol.com/bgjhykdmbtj668/live/amc.php",
+                    "referente": "http://vercanalestv1.com/tv/nacionales/amc.html",
+                    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/72.0.3626.109 Safari/537.36",
+                    "incrustar": verdadero
+ 
+				},
+				{
+					"name": "Opcion 2",
+					"imagen": "http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/23021"
+				},
+				{
+					"name": "Opción 3",
+					"imagen": "http://www.brandemia.org/sites/default/files/sites/default/files/tcm_logo_antes.jpg",
+					"url": "http://client-proiptv.com:8080/giancarlo/giancarlo123/3370"
+				}
+ 
+			]
+		}
+ 
+ 
+	]
+},
+{
+            "nombre": "Canales TDT",
+            "imagen": "https://confilegal.com/wp-content/uploads/2018/02/Captura-de-pantalla-2018-02-01-a-las-19.00.06.png",
+"estaciones": [
+ 
+{
+                           "nombre": "LA 1",
+                           "imagen":"https://imagizer.imageshack.com/img923/7224/wV2VO8.jpg",
+                           "url": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8",
+"incrustar": ""
+ }, 
+ {
+                           "nombre": "LA 2",
+                           "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png",
+                           "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8",
+"incrustar": ""
+ }, 
+ {
+                           "nombre": "ANTENA 3",
+                           "imagen":"http://o.aolcdn.com/hss/storage/midas/a7940cbf6cee741b9cefe77833a9605a/205228271/1493731075_712962_1493731585_sumario_normal.jpg",
+                           "url": "https://livestartover.atresmedia.com/geoantena3/master.m3u8",
+"incrustar": ""
+ }, 
+ {
+                           "nombre": "CUATRO",
+                           "image":"http://tvonlinegratis.com/wp-content/uploads/2014/01/Cuatro-TV-Es-Logo-300x300.jpg",
+                           "url": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8",
+"incrustar": ""
+ }, 
+  {
+                           "nombre": "TELECINCO",
+                           "imagen":"https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png",
+                           "url": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8",
+"incrustar": ""
+ }, 
+  {
+                           "nombre": "LA SEXTA",
+                           "image":"http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg",
+                           "url": "https://livestartover.atresmedia.com/lasexta/master.m3u8",
+"incrustar": ""
+ }, 
+  {
+                           "nombre": "MEGA",
+                           "imagen":"https://emopa.com/wp-content/uploads/2015/07/Logo-MEGA.jpg",
+                           "url": "https://livestartover.atresmedia.com/geomega/master.m3u8",
+"incrustar": ""
+ }, 
+  {
+                           "nombre": "NOVA",
+                           "image":"http://s01.s3c.es/imag/_v3/Ecoteuve/InterioresTexto/nova.jpg",
+                           "url": "https://livestartover.atresmedia.com/geonova/bitrate_3.m3u8",
+"incrustar": ""
+ }, 
+  {
+                           "nombre": "NEOX",
+                           "imagen":"http://www.angelmoron.es/wp-content/uploads/2019/08/720x540.jpg",
+                           "url": "https://livestartover.atresmedia.com/geoneox/bitrate_3.m3u8",
+"incrustar": ""
+ }, 
+  {
+                           "nombre": "ENERGÍA",
+                           "image":"http://directostv.teleame.com/wp-content/uploads/2016/01/Energia-en-directo-online.png",
+                           "url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8",
+"incrustar": ""
+ }, 
+  {
+                           "nombre": "BEMAD",
+                           "imagen":"https://cdn.one.accedo.tv/files/57f3c7889a28fb021e652c8e",
+                           "url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8",
+"incrustar": ""
+ }, 
+  {
+                           "nombre": "DIVINIDAD",
+                           "imagen":"https://static01.diariodenavarra.es/uploads/imagenes/bajacalidad/2013/05/17/_divinity_6861b2ab.jpg?780d153cbc708c3bd42ec599e76b15f4",
+                           "url": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8",
+"incrustar": ""
+ }, 
+ 
+ 
+ 
+   {
+                           "nombre": "FDF",
+                           "imagen":"https://2.bp.blogspot.com/-FznuQn2iCT8/WNQ8EY1ES9I/AAAAAAAAFYo/OT_QD9wsirkQ2CNDnCZ5uM-kM00606jTQCLcB/s200/fdf_circular_500.png",
+                           "url": "https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8",
+"incrustar": ""
+ }, 
+ 
+   {
+                           "nombre": "SERIE A3",
+                           "imagen":"https://fotografias-nova.atresmedia.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/63.jpg",
+                           "url": "https://livestartover.atresmedia.com/geoa3series/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "PARAMONTE",
+                           "imagen":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png",
+                           "url": "https://paramount-live.flumotion.com/live/playlist.m3u8",
+"incrustar": ""
+ }, 
+ 
+   {
+                           "nombre": "DIEZ",
+                           "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png",
+                           "url": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "24H",
+                           "imagen":"https://img2.rtve.es/css/rtve.2017.apps/rtve.2017.noticias/resources/24h_mosca_RGB.jpg",
+                           "url": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "+24H",
+                           "imagen":"http://img.rtve.es/imagenes/multisenal-24/1361962728583.png",
+                           "url": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "13TV",
+                           "imagen":"https://media.tvalacarta.info/canales/256x256/trecetves.png",
+                           "url": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "MTMAD",
+                           "imagen":"https://s03.s3c.es/imag/_v0/770x420/9/c/5/mtmad.jpg",
+                           "url": "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "PARLAMENTO",
+                           "imagen":"http://www.telecaravaca.com/wp-content/uploads/logos/parlamento.png",
+                           "url": "http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "EL TORO TV",
+                           "imagen":"https://www.elconfidencialdigital.com/asset/zoomcrop%252C1366%252C800%252Ccenter%252Ccenter/media/elconfidencialdigital/images/2014/04/15/ECDIMA20140415_0017_1.jpg",
+                           "url": "https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "CANAL DISNEY",
+                           "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",
+                           "url": "http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "BOING",
+                           "imagen":"https://cdn.one.accedo.tv/files/5852d73e0b3691021cedfc8a",
+                           "url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "TELEDEPORTE",
+                           "imagen":"https://pbs.twimg.com/profile_images/378800000825220874/9a37e1ec3b1aa0bb5aa723e43c30c8ba_400x400.png",
+                           "url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "DEPORTE3",
+                           "image":"http://files.veteranos1.webnode.es/system_preview_detail_200000496-b4001b4f7b/SPORT.jpg",
+                           "url": "https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:es3_web/master_DVR.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "REAL MADRID TV",
+                           "imagen":"https://www.mundodeportivo.com/r/GODO/MD/p3/Futbol/Imagenes/2016/10/18/img_hcoca_20161018-184125_imagenes_md_otras_fuentes_madridtv.jpg",
+                           "url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "REAL MADRID TV",
+                           "imagen":"https://www.mundodeportivo.com/r/GODO/MD/p3/Futbol/Imagenes/2016/10/18/img_hcoca_20161018-184125_imagenes_md_otras_fuentes_madridtv.jpg",
+                           "url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "REAL MADRID TV (Español)",
+                           "imagen":"https://www.mundodeportivo.com/r/GODO/MD/p3/Futbol/Imagenes/2016/10/18/img_hcoca_20161018-184125_imagenes_md_otras_fuentes_madridtv.jpg",
+                           "url": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "BETIS TV",
+                           "imagen":"http://directostv.teleame.com/wp-content/uploads/2017/10/Betis-TV.png",
+                           "url": "https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "SEVILLA TV",
+                           "imagen":"https://yt3.ggpht.com/a/AGF-l78yu88r9eJYBG2fEx4QqBWglAl6Lszdys1G-A=s900-ck-c0xffffffff-no-rj-mo",
+                           "url": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8",
+"incrustar": ""
+ }, 
+{
+                           "nombre": "UD LAS PALMAS HD",
+                           "imagen":"https://img.besport.com/512/hsAQ22QeM-8vcQ-IwOGQJJdJG3Y",
+                           "url": "https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "RT",
+                           "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",
+                           "url": "https://rt-esp.secure.footprint.net/1102.m3u8",
+"incrustar": ""
+ }, 
+    {
+                           "nombre": "CANAL SUR",
+                           "imagen":"https://www.neeo.es/wp-content/uploads/2019/10/canal-sur.png",
+                           "url": "http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8",
+"incrustar": ""
+ }, 
+   {
+                           "nombre": "ANDALUCIA COCINA",
+                           "imagen":"https://pbs.twimg.com/profile_images/460798109979664384/GXeGjD-I_400x400.png",
+                           "url": "https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8",
+"incrustar": ""
+ }, 
+  {
+                           "nombre": "MIAMI TV (Latino)",
+                           "image":"http://tierradesueños.es/wp-content/uploads/2013/07/MIAMITV_CANAL.jpg",
+                           "url": "https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8",
+"incrustar": ""
+ }
+]
+}, 
+ 
+{
+            "name": "Autonómicas",
+            "imagen": "https://confilegal.com/wp-content/uploads/2018/02/Captura-de-pantalla-2018-02-01-a-las-19.00.06.png",
+"estaciones": [
+ 
+{
+       "nombre": "7tvrMurcia", 
+		"image": "https://www.fbrm.org/imagenes/noticias/zoomfotonoticia-2503.jpg", 
+	    "url": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on " 
+  }, 
+{
+"nombre": "TV Aragón", "imagen": "http://www.eurofontanilla.es//wp-content/uploads/AragonTV.jpg", "url": "http://aragontv.stream.flumotion .com/aragontv/hls-live/main.m3u8" 
+},  
+{
+"nombre": "Canal Sur Directo", "imagen": "http://tveonline.webcindario.com/CANAL-SUR-DIRECTO.png", "url": "http://canalsur-live.hls.adaptive .level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8 " 
+}, 
+{ "nombre": "Eitb - P.Vasco", "imagen": "http://www.freeetv.com/images/02_logo/canal_vasco_spain.jpg", "url": "http://etbvnogeo-lh. akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
+					"incrustar": "verdadero",
+                    "playInNatPlayer": "verdadero"
+}, 
+{ 
+"nombre": "Navarra", "imagen": "https://d2jljza7x0a5yy.cloudfront.net/images/stories/noticias/logocanal6.jpg",
+ 					"url": "http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8",
+					"incrustar": "verdadero",
+                    "playInNatPlayer": "verdadero"
+}, 
+{ 
+"nombre": "IB3 Baleares", "imagen": "http://img3.wikia.nocookie.net/_
